@@ -1,4 +1,4 @@
-Project description
+
 Project Description:
 
 This project is designed to teach students how to create and configure an AWS Lambda function using Python, interact with AWS services through the Boto3 library, and automate the process of launching an EC2 instance.
@@ -7,7 +7,8 @@ Scenario:
 
 Apex Limited is seeking an automated solution to manage EC2 instances effectively in their AWS environment. The goal is to reduce costs, improve resource utilization, and ensure that instances are terminated when no longer needed. This project outlines the use case for automating EC2 instance management.
 
-Prerequisites
+
+
 Prerequisites:
 
 AWS account with necessary permissions.
@@ -15,6 +16,8 @@ AWS account with necessary permissions.
 Basic knowledge of AWS services.
 
 Basic knowledge of Python.
+
+
 
 Hints
 Step 1: Setup IAM and Architecture
