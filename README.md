@@ -1,7 +1,7 @@
 
 Project Description:
 
-This project is designed to teach students how to create and configure an AWS Lambda function using Python, interact with AWS services through the Boto3 library, and automate the process of launching an EC2 instance.
+Create and configure an AWS Lambda function using Python, interact with AWS services through the Boto3 library, and automate the process of launching an EC2 instance.
 
 Scenario:
 
